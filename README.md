@@ -1,4 +1,3 @@
-# n8n-Automation-AI-Mentor-Chatbot
 
 ## 🤖 AI Mentor Chatbot using n8n, Google Gemini & Telegram
 
@@ -61,4 +60,4 @@ The chatbot answers student queries in real-time with context-aware responses an
 ---
 
 ## Demo Video
-[demo video](https://youtu.be/GO2yFUVRI5M)
+## [Video](https://youtu.be/GO2yFUVRI5M)
